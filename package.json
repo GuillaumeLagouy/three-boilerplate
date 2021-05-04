@@ -1,0 +1,19 @@
+{
+  "name": "three-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple ThreeJS boilerplate",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "three": "^0.128.0"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "tabWidth": 4
+  }
+}
